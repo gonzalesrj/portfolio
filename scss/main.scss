@@ -1,0 +1,19 @@
+/* BASE base styles, variables, mixins, etc. */
+@import 'base/_variables.scss';
+@import 'base/_mixins.scss';
+@import 'base/_normalize.scss';
+@import 'base/_base.scss';
+
+/* LAYOUT - page layout styles */
+@import 'layout/_header.scss';
+@import 'layout/_nav.scss';
+@import 'layout/_footer.scss';
+@import 'layout/_mobile.scss';
+
+/* MODULES - individual site components */
+@import 'modules/_blocks.scss';
+@import 'modules/_buttons.scss';
+@import 'modules/_components.scss';
+@import 'modules/_forms.scss';
+@import 'modules/_sections.scss';
+@import 'modules/_typography.scss';

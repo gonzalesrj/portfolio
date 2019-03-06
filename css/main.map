@@ -1,0 +1,40 @@
+{
+	"version": 3,
+	"file": "../scss/main.css",
+	"sources": [
+		"../scss/main.scss",
+		"../scss/base/_variables.scss",
+		"../scss/base/_mixins.scss",
+		"../scss/base/_normalize.scss",
+		"../scss/base/_base.scss",
+		"../scss/layout/_header.scss",
+		"../scss/layout/_nav.scss",
+		"../scss/layout/_footer.scss",
+		"../scss/layout/_mobile.scss",
+		"../scss/modules/_blocks.scss",
+		"../scss/modules/_buttons.scss",
+		"../scss/modules/_components.scss",
+		"../scss/modules/_forms.scss",
+		"../scss/modules/_sections.scss",
+		"../scss/modules/_typography.scss"
+	],
+	"sourcesContent": [
+		"/* BASE base styles, variables, mixins, etc. */\r\n@import 'base/_variables.scss';\r\n@import 'base/_mixins.scss';\r\n@import 'base/_normalize.scss';\r\n@import 'base/_base.scss';\r\n\r\n/* LAYOUT - page layout styles */\r\n@import 'layout/_header.scss';\r\n@import 'layout/_nav.scss';\r\n@import 'layout/_footer.scss';\r\n@import 'layout/_mobile.scss';\r\n\r\n/* MODULES - individual site components */\r\n@import 'modules/_blocks.scss';\r\n@import 'modules/_buttons.scss';\r\n@import 'modules/_components.scss';\r\n@import 'modules/_forms.scss';\r\n@import 'modules/_sections.scss';\r\n@import 'modules/_typography.scss';",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		""
+	],
+	"mappings": "AAAA,+CAA+C;AAM/C,iCAAiC;AAMjC,0CAA0C",
+	"names": []
+}
